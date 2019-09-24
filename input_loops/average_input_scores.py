@@ -9,5 +9,7 @@ The purpose of this program is to read in one person's names, first and last, th
 out of 100, storing them in a list
 """
 
+def average(score_list):
+    pass
 
 if __name__ == '__main__':
